@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: php-redis
-        image: anjia0532/google-samples.gb-frontend:v6
+        image: willdockerhub/gb-frontend:v5
         resources:
           requests:
             cpu: 100m
